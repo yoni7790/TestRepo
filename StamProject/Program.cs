@@ -10,6 +10,7 @@ namespace StamProject
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Happy with out code");
         }
     }
 }
